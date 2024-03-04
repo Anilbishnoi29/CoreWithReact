@@ -1,0 +1,1 @@
+C:\Users\bishn\source\repos\MovieApp\movieapp.client\obj\Debug\movieapp.client.esproj.CoreCompileInputs.cache
